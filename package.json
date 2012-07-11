@@ -1,0 +1,18 @@
+{
+  "name": "connect-repl",
+  "version": "0.0.1",
+  "description": "Inject REPL as Connect or Express middleware",
+  "keywords": ["repl", "connect", "express", "middleware", "debug"],
+  "author": "Pavel Lang <langpavel@phpskelet.org>",
+  "homepage": "https://github.com/langpavel/node-connect-repl",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/langpavel/node-connect-repl.git"
+  },
+  "bugs": {
+    "url": "https://github.com/langpavel/node-connect-repl/issues"
+  },
+  "main": "index",
+  "engines": { "node": ">= 0.6.0" }
+}
