@@ -12,6 +12,11 @@ Following is exported into REPL:
  * `req` -- current request object when stopped
  * `res` -- current response object when stopped
 
+## REPL_EXPORT global function
+
+Module exports **global** function `REPL_EXPORT(name, value)` which can be called anywhere.
+Provided value is accesible by `name` in REPL.
+
 ## Example
 
 ```js

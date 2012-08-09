@@ -1,6 +1,6 @@
 {
   "name": "connect-repl",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Inject REPL as Connect or Express middleware",
   "keywords": ["repl", "connect", "express", "middleware", "debug", "interactive"],
   "author": "Pavel Lang <langpavel@phpskelet.org>",
